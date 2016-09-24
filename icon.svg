@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="637"
+   height="358"
+   viewBox="0 0 637 358"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   enable-background="new"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CraftingHysteresis_Dev\About\Preview.png"
+   inkscape:export-xdpi="50.509998"
+   inkscape:export-ydpi="50.509998">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5385">
+      <rect
+         style="opacity:1;fill:#946fad;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5387"
+         width="637"
+         height="358"
+         x="0"
+         y="694.36218"
+         ry="0" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4217">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4219" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4221" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="10"
+         result="blur"
+         id="feGaussianBlur4223" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset4225" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4227" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99601044"
+     inkscape:cx="264.88062"
+     inkscape:cy="79.736167"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     guidetolerance="20"
+     inkscape:snap-perpendicular="false"
+     objecttolerance="20"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1799"
+     inkscape:window-height="1163"
+     inkscape:window-x="1498"
+     inkscape:window-y="98"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,637"
+       id="guide4697" />
+    <sodipodi:guide
+       position="637,0"
+       orientation="-358,0"
+       id="guide4699" />
+    <sodipodi:guide
+       position="0,358"
+       orientation="358,0"
+       id="guide4703" />
+    <sodipodi:guide
+       position="-46.484375,179"
+       orientation="0,1"
+       id="guide5429"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="318.5,453"
+       orientation="1,0"
+       id="guide5471"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-694.36218)"
+     style="filter:url(#filter5465)">
+    <g
+       id="g5381"
+       clip-path="url(#clipPath5385)"
+       inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OSHACompliance_Dev\About\Preview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         clip-path="none"
+         y="694.36218"
+         x="0"
+         height="358"
+         width="637"
+         id="rect5373"
+         style="opacity:1;fill:#290e3c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#0f0119;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5491"
+         width="491"
+         height="181"
+         x="65"
+         y="983.36218" />
+      <path
+         style="opacity:1;fill:#946fad;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         d="M -64.167969 -72.625 L -115.33203 118.32422 L -145.66992 126.45312 L -131.58984 179.00195 L -154.49414 264.48438 L -105.14258 277.70898 L -55.34375 463.5625 L 124.31836 415.42188 L 60.970703 179.00195 L 115.49414 -24.484375 L -64.167969 -72.625 z "
+         transform="translate(0,694.36218)"
+         id="rect5406" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#946fad;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         d="m 701.11719,621.73718 51.16406,190.94922 30.33789,8.1289 -14.08008,52.54883 22.9043,85.48247 -49.35156,13.2246 -49.79883,185.8535 -179.66211,-48.1406 63.34766,-236.41997 -54.52344,-203.48632 179.66211,-48.14063 z"
+         id="rect5406-9" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5457"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-20,689.36218)"><flowRegion
+         id="flowRegion5459"><rect
+           id="rect5461"
+           width="425"
+           height="66"
+           x="126"
+           y="292" /></flowRegion><flowPara
+         id="flowPara5463"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:50px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">OSHA Compliance</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="469.41989"
+       y="1031.851"
+       id="text4800"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4802"
+         x="469.41989"
+         y="1031.851" /></text>
+    <g
+       id="g4815"
+       transform="translate(-159.93509,37.647058)"
+       style="filter:url(#filter4217)">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 379.12335,851.89861 0,-61.33913 9.97405,0 9.97406,0 -1.32137,61.89692 c -0.39909,18.69459 0.6153,26.47529 0.47828,37.19528 -4.29117,7.864 -5.9129,18.04219 -1.6898,22.15656 -1.81538,2.30807 -2.71242,5.82886 -5.16701,9.74623 -5.39025,-4.73948 -8.54633,-5.75687 -12.20842,-9.58751 -0.022,-49.1865 -0.0694,-19.93929 -0.0398,-60.06835 z m 24.06596,55.33901 c -3.51442,-1.41968 -3.70985,-3.92216 -0.73971,-9.47192 3.85873,-7.21009 8.33281,-7.51966 101.52344,-7.02447 91.36548,0.4855 97.60359,0.96459 99.34664,7.63004 1.02291,3.9116 0.89436,8.07748 -0.28565,9.25751 -2.65252,2.65251 -193.23357,2.27949 -199.84472,-0.39116 z m -27.9116,-170.51709 0,-46.14766 12.49832,0.0215 c 19.08265,0.32089 19.85789,4.72803 38.59001,10.99332 -7.61296,6.22214 -12.49052,9.74386 -19.72799,12.34783 7.59868,5.19401 9.80982,6.0003 18.98463,11.29908 -6.59802,4.14877 -13.51942,5.18106 -20.11465,10.71955 6.32844,3.85469 15.09432,7.87848 20.85811,12.2796 -5.87884,3.79266 -15.86733,8.70989 -20.08432,11.81029 5.65388,3.32802 12.28457,7.65348 18.98919,10.77388 -5.71197,3.57212 -24.13109,12.05032 -37.76801,12.05032 l -12.22529,0 0,-46.14767 z"
+         id="path4819"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccscccccccsssccccccccccscccc" />
+    </g>
+  </g>
+</svg>
