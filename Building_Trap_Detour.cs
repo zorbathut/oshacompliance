@@ -13,7 +13,7 @@ namespace OshaCompliance
             {
                 if (!trap.Armed)
                 {
-                    return 60;
+                    return 100;
                 }
                 else
                 {
